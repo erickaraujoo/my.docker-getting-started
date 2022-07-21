@@ -6,8 +6,8 @@
   :rocket: Getting started with Docker (containerizing your applications)
 </h4>
 <p align="center">
-  <a href="#-get-started">About Docker</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-how-to-use">How to use</a>&nbsp;&nbsp;&nbsp;
+  <a href="#books-about-docker">About Docker</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#information_source-how-to-use">How to use</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 ## :books: About Docker
@@ -15,8 +15,6 @@
 Docker is an open source platform that enables developers to build, deploy, run, update and manage containers—standardized, executable components that combine application source code with the operating system (OS) libraries and dependencies required to run that code in any environment.
 
 <strong>Access the Docker documentation [here](https://docs.docker.com/get-started/)</strong>
-
-<br>
 
 ## :information_source: How to use
 
